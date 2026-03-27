@@ -2,6 +2,12 @@
 
 A complete MERN stack assignment project for tracking elder patient data, health history, and alerts with secure authentication and role-based access.
 
+## Live Links
+
+- Frontend (Vercel): https://elder-health-monitoring-system.vercel.app
+- Frontend (Vercel preview): https://elder-health-monitoring-system-eayis8hl3-chinmay-476s-projects.vercel.app
+- Backend (Render): https://elder-health-monitoring-system-ff9u.onrender.com
+
 ## Tech Stack
 
 - MongoDB with Mongoose
